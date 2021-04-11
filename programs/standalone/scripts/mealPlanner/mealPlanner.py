@@ -3,6 +3,8 @@ import sys
 
 from pipeline.utils import data_formatting
 
+# trash
+
 ROOT = os.path.dirname(__file__)
 ITEMS_PATH = os.path.join(ROOT, 'items.json')
 MEALS_PATH = os.path.join(ROOT, 'meals.json')
