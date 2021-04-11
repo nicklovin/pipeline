@@ -1,0 +1,9 @@
+{
+    "Filet Mignon": {
+        "name": "Filet Mignon",
+        "expiration": "03/30/2021",
+        "quantity": 2,
+        "serving-size": 4,
+        "measurement": "ounce"
+    }
+}

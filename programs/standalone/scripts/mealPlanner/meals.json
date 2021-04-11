@@ -1,0 +1,183 @@
+{
+	"Beef Stew": {
+		"add-ons": [
+			"Celery", 
+			"Portabella Mushrooms"
+		], 
+		"author": "Nick Love", 
+		"cook-time": 160, 
+		"ingredients": [
+			"Chuck Roast Steak", 
+			"Onion", 
+			"Carrot", 
+			"Potato", 
+			"Olive Oil", 
+			"Flour", 
+			"Beer", 
+			"Beef Broth", 
+			"Salt", 
+			"Pepper", 
+			"Thyme", 
+			"Bay Leaf", 
+			"Red Wine", 
+			"Chicken Broth", 
+			"Parsley"
+		], 
+		"meal-type": "dinner", 
+		"prep-time": 45, 
+		"recipe": "Cut meat and vegetables into .5-1.0 inch cubes\n\nPre-heat an oven to 300F or 150C\n\nHeat some oil in the ceramic bowl\n\nCoat the meat cubes in some flour and add to the pot\n\nSear meat, 3-6 minutes depending on portion of meat (1-2lbs)\n\nPour in beer (or wine) to deglaze pot while meat is still in\n\nCook off the alcohol, stirring the meat and meat crustings into the broth\n\nAdd all vegetables into the pot\n\nAdd beef broth in until all the contents are somewhat submerged\n\nStir contents to vary the parts\n\nPlace the lid on the pot, slightly cracked to allow the stew to \"breathe\"\n\nBake in the oven for 2.5 hours\n\nLet sit for 30 minutes, add chopped parsley on top before serving",
+		"substitutions": [
+			"Red Wine",
+			"Chicken Broth"
+		], 
+		"tags": [
+			"slow cook"
+		]
+	}, 
+	"Egg Sandwich": {
+		"add-ons": [
+			"Bagel", 
+			"Egg", 
+			"Provolone Cheese", 
+			"Avocado", 
+			"Swiss Cheese", 
+			"Ricotta Cheese", 
+			"Bacon", 
+			"bagel sandwich", 
+			"breakfast sandwich", 
+			"sandwich"
+		], 
+		"author": "Nick Love", 
+		"cook-time": 8, 
+		"ingredients": [
+			"Bagel", 
+			"Egg", 
+			"Provolone Cheese", 
+			"Avocado", 
+			"Swiss Cheese", 
+			"Ricotta Cheese", 
+			"Bacon", 
+			"bagel sandwich", 
+			"breakfast sandwich", 
+			"sandwich"
+		], 
+		"meal-type": "breakfast", 
+		"prep-time": 3, 
+		"recipe": "Cook 1-3 Eggs.  Can be scrambled or fried.\n\nToast Bagel.\n\nAdd cheese to Bagel.\n\nAdd any add-ons.", 
+		"substitutions": [
+			"Bagel", 
+			"Egg", 
+			"Provolone Cheese", 
+			"Avocado", 
+			"Swiss Cheese", 
+			"Ricotta Cheese", 
+			"Bacon", 
+			"bagel sandwich", 
+			"breakfast sandwich", 
+			"sandwich"
+		], 
+		"tags": [
+			"Bagel", 
+			"Egg", 
+			"Provolone Cheese", 
+			"Avocado", 
+			"Swiss Cheese", 
+			"Ricotta Cheese", 
+			"Bacon", 
+			"bagel sandwich", 
+			"breakfast sandwich", 
+			"sandwich"
+		]
+	}, 
+	"Sample": {
+		"add-ons": [
+			"any", 
+			"optional", 
+			"ingredients"
+		], 
+		"author": "User who wrote the meal preset", 
+		"cook-time": 0, 
+		"ingredients": [
+			"any", 
+			"required", 
+			"items"
+		], 
+		"meal-type": "recommended meal: breakfast/lunch/dinner/snack/dessert", 
+		"prep-time": 0, 
+		"recipe": "recipe, possibly in long formatted string", 
+		"substitutions": [
+			"any", 
+			"interchangeable", 
+			"items"
+		], 
+		"tags": [
+			"keywords", 
+			"to", 
+			"filter", 
+			"with"
+		]
+	}, 
+	"Scrambled Eggs": {
+		"add-ons": [
+			"Butter", 
+			"Ricotta Cheese", 
+			"Salt", 
+			"Pepper", 
+			"Parmesan Cheese"
+		], 
+		"author": "Nick Love", 
+		"cook-time": 8, 
+		"ingredients": [
+			"Butter", 
+			"Ricotta Cheese", 
+			"Salt", 
+			"Pepper", 
+			"Parmesan Cheese"
+		], 
+		"meal-type": "breakfast", 
+		"prep-time": 2, 
+		"recipe": "Melt up to a tablespoon of butter in a low-medium heat non-stick saucepan\n\nAdd 1-5 whole eggs into the pan, do not beat eggs\n\nBreak the yolks and stir the eggs in the pan, scraping constantly\n\nKeep pan from getting too hot: \n90 seconds on heat, 20 seconds off\n\nOnce the eggs are no longer runny, add the seasonings and add-ons of choice, folding them into the eggs\n\nFinish cooking, 30 seconds more max", 
+		"substitutions": [
+			"Butter", 
+			"Ricotta Cheese", 
+			"Salt", 
+			"Pepper", 
+			"Parmesan Cheese"
+		], 
+		"tags": [
+			"Butter", 
+			"Ricotta Cheese", 
+			"Salt", 
+			"Pepper", 
+			"Parmesan Cheese"
+		]
+	}, 
+	"Spaghetti and Meatballs": {
+		"add-ons": [
+			"basil", 
+			"parmesan cheese"
+		], 
+		"author": "Nick Love", 
+		"category": "grain", 
+		"cook-time": 20, 
+		"ingredients": [
+			"spaghetti", 
+			"meatballs", 
+			"marinara sauce"
+		], 
+		"meal-type": [
+			"lunch", 
+			"dinner"
+		], 
+		"prep-time": 5, 
+		"recipe": "Cook pasta\nBake meatballs\nAdd sauce", 
+		"substitutions": [
+			"fettuccine"
+		], 
+		"tags": [
+			"pasta", 
+			"meat", 
+			"grain"
+		]
+	}
+}

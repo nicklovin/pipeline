@@ -1,1 +1,534 @@
-{}
+{
+	"Asparagus": {
+		"category": "vegetable", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Avocado": {
+		"category": "fruit", 
+		"cost": 4, 
+		"tags": [
+			"fatty", 
+			"green"
+		]
+	}, 
+	"Bacon": {
+		"category": "protein", 
+		"cost": 6, 
+		"tags": []
+	}, 
+	"Bagel": {
+		"category": "grain", 
+		"cost": 0.75, 
+		"tags": []
+	}, 
+	"Balsamic Vinegar": {
+		"category": "oil", 
+		"cost": 6, 
+		"tags": []
+	}, 
+	"Bay Leaf": {
+		"category": "herbs", 
+		"cost": 0.5, 
+		"tags": []
+	}, 
+	"Beef Broth": {
+		"category": "liquid", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Beer": {
+		"category": "liquid", 
+		"cost": 1, 
+		"tags": []
+	}, 
+	"Bourbon": {
+		"category": "liquid", 
+		"cost": 21, 
+		"tags": []
+	}, 
+	"Broccoli": {
+		"category": "vegetable", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Broccolini": {
+		"category": "vegetable", 
+		"cost": 3, 
+		"tags": [
+			"broccoli", 
+			"baby"
+		]
+	}, 
+	"Brown Rice": {
+		"category": "grain", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Butter": {
+		"category": "dairy", 
+		"cost": 5, 
+		"tags": []
+	}, 
+	"Canola Oil": {
+		"category": "oil", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Carrot": {
+		"category": "vegetable", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Celery": {
+		"category": "vegetable", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Cereal": {
+		"category": "grain", 
+		"cost": 4, 
+		"tags": [
+			"honey bunches of oats", 
+			"cheerios", 
+			"honey nut cheerios"
+		]
+	}, 
+	"Cheddar Jack Cheese": {
+		"category": "dairy", 
+		"cost": 4, 
+		"tags": [
+			"shredded cheese", 
+			"shred"
+		]
+	}, 
+	"Chicken (Whole)": {
+		"category": "protein", 
+		"cost": 9, 
+		"tags": [
+			"roast", 
+			"stew", 
+			"stock"
+		]
+	}, 
+	"Chicken Breast": {
+		"category": "protein", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Chicken Broth": {
+		"category": "liquid", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Chicken Drumsticks": {
+		"category": "protein", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Chicken Tenderloin": {
+		"category": "protein", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Chicken Thigh": {
+		"category": "protein", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Chuck Roast Steak": {
+		"category": "protein", 
+		"cost": 8, 
+		"tags": [
+			"stew", 
+			"meat"
+		]
+	}, 
+	"Cilantro": {
+		"category": "herbs", 
+		"cost": 2, 
+		"tags": [
+			"citrus", 
+			"soap", 
+			"corriander"
+		]
+	}, 
+	"Corn Tortilla": {
+		"category": "grain", 
+		"cost": 3, 
+		"tags": [
+			"spanish", 
+			"mexican"
+		]
+	}, 
+	"Cream Cheese": {
+		"category": "dairy", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Cumin": {
+		"category": "seasoning", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Donut": {
+		"category": "grain", 
+		"cost": 2, 
+		"tags": [
+			"glazed"
+		]
+	}, 
+	"Egg": {
+		"category": "protein", 
+		"cost": 0.25, 
+		"tags": []
+	}, 
+	"Flake Salt": {
+		"category": "seasoning", 
+		"cost": 3, 
+		"tags": [
+			"kosher"
+		]
+	}, 
+	"Flap Steak": {
+		"category": "protein", 
+		"cost": 9, 
+		"tags": [
+			"taco meat", 
+			"tacos", 
+			"carne asada"
+		]
+	}, 
+	"Flour": {
+		"category": "grain", 
+		"cost": 2, 
+		"tags": [
+			"Chuck Roast Steak", 
+			"Onion", 
+			"Carrot", 
+			"Potato", 
+			"Olive Oil"
+		]
+	}, 
+	"Flour Tortilla": {
+		"category": "grain", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Garlic": {
+		"category": "seasoning", 
+		"cost": 3, 
+		"tags": [
+			"powder", 
+			"minced"
+		]
+	}, 
+	"Garlic (Whole)": {
+		"category": "vegetable", 
+		"cost": 1, 
+		"tags": [
+			"sliced"
+		]
+	}, 
+	"Gnocchi": {
+		"category": "grain", 
+		"cost": 4, 
+		"tags": [
+			"pasta"
+		]
+	}, 
+	"Grape Seed Oil": {
+		"category": "oil", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Green Beans": {
+		"category": "vegetable", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Green Pepper": {
+		"category": "vegetable", 
+		"cost": 1, 
+		"tags": []
+	}, 
+	"Ground Sage": {
+		"category": "seasoning", 
+		"cost": 3, 
+		"tags": [
+			"herbs"
+		]
+	}, 
+	"Heavy Cream": {
+		"category": "dairy", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Hot Sausage": {
+		"category": "protein", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Italian Seasoning": {
+		"category": "seasoning", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Kosher Salt": {
+		"category": "seasoning", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Leek": {
+		"category": "vegetable", 
+		"cost": 3, 
+		"tags": [
+			"onion"
+		]
+	}, 
+	"Manchego Cheese": {
+		"category": "dairy", 
+		"cost": 13, 
+		"tags": []
+	}, 
+	"Mild Sausage": {
+		"category": "protein", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Milk": {
+		"category": "dairy", 
+		"cost": 3, 
+		"tags": [
+			"whole", 
+			"2%"
+		]
+	}, 
+	"Olive Oil": {
+		"category": "oil", 
+		"cost": 7, 
+		"tags": [
+			"extra virgin"
+		]
+	}, 
+	"Onion": {
+		"category": "vegetable", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Onion Powder": {
+		"category": "seasoning", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Parmesan Cheese": {
+		"category": "dairy", 
+		"cost": 8, 
+		"tags": [
+			"italian"
+		]
+	}, 
+	"Parsley": {
+		"category": "herbs", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Parsley Flakes": {
+		"category": "seasoning", 
+		"cost": 3, 
+		"tags": [
+			"herbs"
+		]
+	}, 
+	"Pepper": {
+		"category": "seasoning", 
+		"cost": 2, 
+		"tags": [
+			"peppercorn", 
+			"black"
+		]
+	}, 
+	"Portabella Mushrooms": {
+		"category": "vegetable", 
+		"cost": 4, 
+		"tags": [
+			"baby"
+		]
+	}, 
+	"Potato": {
+		"category": "grain", 
+		"cost": 0.5, 
+		"tags": []
+	}, 
+	"Provolone Cheese": {
+		"category": "dairy", 
+		"cost": 8, 
+		"tags": [
+			"cheese", 
+			"sandwich"
+		]
+	}, 
+	"Ranch": {
+		"category": "condiment", 
+		"cost": 4, 
+		"tags": [
+			"salad", 
+			"dressing"
+		]
+	}, 
+	"Red Cayenne Peppers": {
+		"category": "seasoning", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Red Onion": {
+		"category": "vegetable", 
+		"cost": 2, 
+		"tags": []
+	}, 
+	"Red Pepper": {
+		"category": "vegetable", 
+		"cost": 1.5, 
+		"tags": []
+	}, 
+	"Red Wine": {
+		"category": "liquid", 
+		"cost": 11, 
+		"tags": []
+	}, 
+	"Red Wine Vinegar": {
+		"category": "oil", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Rice": {
+		"category": "grain", 
+		"cost": 3, 
+		"tags": [
+			"starch"
+		]
+	}, 
+	"Ricotta Cheese": {
+		"category": "dairy", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Romaine Lettuce": {
+		"category": "vegetable", 
+		"cost": 3, 
+		"tags": [
+			"salad", 
+			"green", 
+			"sandwich"
+		]
+	}, 
+	"Rotisserie Chicken": {
+		"category": "protein", 
+		"cost": 9, 
+		"tags": []
+	}, 
+	"Salmon": {
+		"category": "protein", 
+		"cost": 8, 
+		"tags": []
+	}, 
+	"Salt": {
+		"category": "seasoning", 
+		"cost": 1, 
+		"tags": [
+			"table"
+		]
+	}, 
+	"Shallot": {
+		"category": "vegetable", 
+		"cost": 3, 
+		"tags": [
+			"onion"
+		]
+	}, 
+	"Spaghetti": {
+		"category": "grain", 
+		"cost": 1.5, 
+		"tags": [
+			"pasta"
+		]
+	}, 
+	"Spinach": {
+		"category": "vegetable", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Swiss Cheese": {
+		"category": "dairy", 
+		"cost": 7, 
+		"tags": []
+	}, 
+	"Thyme": {
+		"category": "herbs", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Tiramisu": {
+		"category": "dessert", 
+		"cost": 5, 
+		"tags": []
+	}, 
+	"Tomato": {
+		"category": "fruit", 
+		"cost": 2, 
+		"tags": [
+			"red", 
+			"seasonal"
+		]
+	}, 
+	"Vegetable Broth": {
+		"category": "liquid", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Vegetable Oil": {
+		"category": "oil", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Vinegar": {
+		"category": "oil", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"Water": {
+		"category": "liquid", 
+		"cost": 0, 
+		"tags": []
+	}, 
+	"Wheat Bread": {
+		"category": "grain", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"White Bread": {
+		"category": "grain", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"White Rice": {
+		"category": "grain", 
+		"cost": 3, 
+		"tags": []
+	}, 
+	"White Wine": {
+		"category": "liquid", 
+		"cost": 11, 
+		"tags": []
+	}, 
+	"White Wine Vinegar": {
+		"category": "oil", 
+		"cost": 4, 
+		"tags": []
+	}, 
+	"Yellow Pepper": {
+		"category": "vegetable", 
+		"cost": 1.5, 
+		"tags": []
+	}
+}
